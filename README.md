@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou Vinicius S.
 
-<!--
-**vinicius030303/vinicius030303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor frontend com foco em **projetos práticos, lógicos e com impacto visual real**.  
+Crio aplicações que vão além do “Hello World” — interfaces que sentem, terminais que respondem e análises que fazem sentido.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias que utilizo
+- HTML5, CSS3, JavaScript
+- React, Firebase
+- Python (scripts, parsing)
+- APIs REST, Integrações
+- Git, GitHub
+- Automação e lógica simbólica
+
+---
+
+## 🚀 Meus projetos em destaque
+
+| Projeto       | Descrição |
+|---------------|-----------|
+| [**IA Visual**](https://github.com/vinicius030303/ia-visual-respostas) | Simula uma IA emocional com temas e resposta animada |
+| [**HackTrace**](https://github.com/vinicius030303/hacktrace) | Terminal hacker interativo com integração Python |
+| [**HabitScan**](https://github.com/vinicius030303/habit-scan) | Analisa rotina e transforma em gráficos e sentimento |
+
+---
+
+## 📫 Contato
+
+[LinkedIn](https://linkedin.com/in/vinicius-front)  
+📧 vinicius__santos@live.com  
+📱 (44) 9 9741-7617
+
+---
+
+> Tenho disciplina, autonomia, foco em solução e total interesse em crescer com projetos reais.
