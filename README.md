@@ -1,36 +1,59 @@
-# 👋 Olá, eu sou Vinicius S.
+<h1 align="center">Vinicius S. 👨‍💻</h1>
 
-Sou desenvolvedor frontend com foco em **projetos práticos, lógicos e com impacto visual real**.  
-Crio aplicações que vão além do “Hello World” — interfaces que sentem, terminais que respondem e análises que fazem sentido.
+<p align="center">
+  <b>Frontend Developer • Criador de projetos com lógica, visual e alma 💡</b>
+</p>
 
----
-
-## 🔧 Tecnologias que utilizo
-- HTML5, CSS3, JavaScript
-- React, Firebase
-- Python (scripts, parsing)
-- APIs REST, Integrações
-- Git, GitHub
-- Automação e lógica simbólica
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&width=435&lines=JavaScript+%7C+React+%7C+Automação+%7C+APIs+REST;Projetos+com+lógica+viva+e+execução+real!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Meus projetos em destaque
+### 🛠️ Tech Stack
 
-| Projeto       | Descrição |
-|---------------|-----------|
-| [**IA Visual**](https://github.com/vinicius030303/ia-visual-respostas) | Simula uma IA emocional com temas e resposta animada |
-| [**HackTrace**](https://github.com/vinicius030303/hacktrace) | Terminal hacker interativo com integração Python |
-| [**HabitScan**](https://github.com/vinicius030303/habit-scan) | Analisa rotina e transforma em gráficos e sentimento |
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 📫 Contato
+### 🚀 Projetos em Destaque
 
-[LinkedIn](https://linkedin.com/in/vinicius-front)  
+| Projeto       | Link                                                                 | Descrição |
+|---------------|----------------------------------------------------------------------|-----------|
+| **IA Visual** | [🔗 GitHub](https://github.com/vinicius030303/ia-visual-respostas)   | IA emocional com temas e digitação animada |
+| **HackTrace** | [🔗 GitHub](https://github.com/vinicius030303/hacktrace)             | Terminal hacker fictício + parser Python |
+| **HabitScan** | [🔗 GitHub](https://github.com/vinicius030303/habit-scan)            | Análise de rotina com sentimento e gráfico |
+
+---
+
+### 📈 Estatísticas GitHub
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinicius030303&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius030303&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius030303&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-front)
 📧 vinicius__santos@live.com  
 📱 (44) 9 9741-7617
 
 ---
 
-> Tenho disciplina, autonomia, foco em solução e total interesse em crescer com projetos reais.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vinicius030303&label=Profile+Views&color=blueviolet&style=flat" alt="view count"/>
+</p>
+
+<p align="center"><i>Tenho disciplina, autonomia, foco em solução e total interesse em crescer com projetos reais.</i></p>
