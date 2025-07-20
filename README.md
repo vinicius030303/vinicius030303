@@ -4,9 +4,7 @@
   <b>Frontend Developer • Criador de projetos com lógica, visual e alma 💡</b>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&width=435&lines=JavaScript+%7C+React+%7C+Automação+%7C+APIs+REST;Projetos+com+lógica+viva+e+execução+real!" alt="Typing SVG" />
-</p>
+
 
 ---
 
@@ -18,6 +16,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![n8n](https://img.shields.io/badge/n8n-A1265D?style=for-the-badge&logo=n8n&logoColor=white)
+
 
 ---
 
