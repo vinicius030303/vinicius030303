@@ -34,6 +34,7 @@
 | **HabitScan**          | [🔗 GitHub](https://github.com/vinicius030303/habit-scan)            | Análise de rotina com sentimento e gráfico |
 | **Habit Tracker Visual** | [🔗 GitHub](https://github.com/vinicius030303/habit-tracker-visual) | Rastreador de hábitos com gráfico e dark mode |
 | **Consulta Dados SQL** | [🔗 GitHub](https://github.com/vinicius030303/consulta-dados-sql)     | Mini simulador de SQL com visual de tabela |
+| **web3-wallet-dashboard** | [🔗 GitHub](https://github.com/vinicius030303/web3-wallet-dashboard.git) | Painel Web3 com integração à MetaMask e dados da blockchain Ethereum |
 
 ---
 
