@@ -25,16 +25,17 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+| Projeto                   | Link                                                                 | Descrição                                                               |
+| ------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **IA Visual**             | [🔗 GitHub](https://github.com/vinicius030303/ia-visual-respostas)   | IA emocional com temas e digitação animada                              |
+| **HackTrace**             | [🔗 GitHub](https://github.com/vinicius030303/hacktrace)             | Terminal hacker fictício + parser Python                                |
+| **HabitScan**             | [🔗 GitHub](https://github.com/vinicius030303/habit-scan)            | Análise de rotina com sentimento e gráfico                              |
+| **Habit Tracker Visual**  | [🔗 GitHub](https://github.com/vinicius030303/habit-tracker-visual)  | Rastreador de hábitos com gráfico e dark mode                           |
+| **Consulta Dados SQL**    | [🔗 GitHub](https://github.com/vinicius030303/consulta-dados-sql)    | Mini simulador de SQL com visual de tabela                              |
+| **Web3 Wallet Dashboard** | [🔗 GitHub](https://github.com/vinicius030303/web3-wallet-dashboard) | Painel Web3 com integração à MetaMask e dados da blockchain Ethereum    |
+| **TraceMyData**           | [🔗 GitHub](https://github.com/vinicius030303/tracemydata)           | Web app para rastreamento e visualização da exposição de dados pessoais |
+| **DeFiVault**             | [🔗 GitHub](https://github.com/vinicius030303/defivault)             | Simulador DeFi com staking, Web3 e lógica de carteira descentralizada   |
 
-| Projeto               | Link                                                                 | Descrição |
-|------------------------|----------------------------------------------------------------------|-----------|
-| **IA Visual**          | [🔗 GitHub](https://github.com/vinicius030303/ia-visual-respostas)   | IA emocional com temas e digitação animada |
-| **HackTrace**          | [🔗 GitHub](https://github.com/vinicius030303/hacktrace)             | Terminal hacker fictício + parser Python |
-| **HabitScan**          | [🔗 GitHub](https://github.com/vinicius030303/habit-scan)            | Análise de rotina com sentimento e gráfico |
-| **Habit Tracker Visual** | [🔗 GitHub](https://github.com/vinicius030303/habit-tracker-visual) | Rastreador de hábitos com gráfico e dark mode |
-| **Consulta Dados SQL** | [🔗 GitHub](https://github.com/vinicius030303/consulta-dados-sql)     | Mini simulador de SQL com visual de tabela |
-| **web3-wallet-dashboard** | [🔗 GitHub](https://github.com/vinicius030303/web3-wallet-dashboard.git) | Painel Web3 com integração à MetaMask e dados da blockchain Ethereum |
 
 ---
 
