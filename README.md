@@ -25,16 +25,18 @@
 
 ---
 
+
 | Projeto                   | Link                                                                 | Descrição                                                               |
 | ------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **Web3 Wallet Dashboard** | [🔗 GitHub](https://github.com/vinicius030303/web3-wallet-dashboard) | Painel Web3 com integração à MetaMask e dados da blockchain Ethereum    |
+| **DeFiVault**             | [🔗 GitHub](https://github.com/vinicius030303/defivault)             | Simulador DeFi com staking, Web3 e lógica de carteira descentralizada   |
+| **RealSpeakFlow**         | [🔗 GitHub](https://github.com/vinicius030303/RealSpeakFlow)         | Um sistema completo de tradução de voz em tempo real.                   |
 | **IA Visual**             | [🔗 GitHub](https://github.com/vinicius030303/ia-visual-respostas)   | IA emocional com temas e digitação animada                              |
 | **HackTrace**             | [🔗 GitHub](https://github.com/vinicius030303/hacktrace)             | Terminal hacker fictício + parser Python                                |
 | **HabitScan**             | [🔗 GitHub](https://github.com/vinicius030303/habit-scan)            | Análise de rotina com sentimento e gráfico                              |
+| **TraceMyData**           | [🔗 GitHub](https://github.com/vinicius030303/tracemydata)           | Web app para rastreamento e visualização da exposição de dados pessoais |
 | **Habit Tracker Visual**  | [🔗 GitHub](https://github.com/vinicius030303/habit-tracker-visual)  | Rastreador de hábitos com gráfico e dark mode                           |
 | **Consulta Dados SQL**    | [🔗 GitHub](https://github.com/vinicius030303/consulta-dados-sql)    | Mini simulador de SQL com visual de tabela                              |
-| **Web3 Wallet Dashboard** | [🔗 GitHub](https://github.com/vinicius030303/web3-wallet-dashboard) | Painel Web3 com integração à MetaMask e dados da blockchain Ethereum    |
-| **TraceMyData**           | [🔗 GitHub](https://github.com/vinicius030303/tracemydata)           | Web app para rastreamento e visualização da exposição de dados pessoais |
-| **DeFiVault**             | [🔗 GitHub](https://github.com/vinicius030303/defivault)             | Simulador DeFi com staking, Web3 e lógica de carteira descentralizada   |
 
 
 ---
