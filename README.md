@@ -1,12 +1,12 @@
 <h1 align="center">Vinicius S. 👨‍💻</h1>
 
 <p align="center">
-  <b>Frontend Developer • Criador de projetos com lógica, visual e alma 💡</b>
+  <b>Fullstack Developer • React, Node.js, Web3 & Cloud</b>
 </p>
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,6 +36,16 @@
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
 
 
+---
+
+###  About Me
+
+- Fullstack Developer focused on building scalable and user-focused applications.  
+- Experienced in React, TypeScript, Node.js, Firebase, and Web3 integrations.  
+- Passionate about creating clean, responsive, and accessible solutions.  
+- Currently seeking opportunities to grow as a Fullstack Developer in international teams.  
+
+
 
 ---
 
@@ -53,9 +63,13 @@
 | **Consulta Dados SQL**    | [🔗 GitHub](https://github.com/vinicius030303/consulta-dados-sql)    | Mini simulador de SQL com visual de tabela                              |
 
 
+*(+ check my GitHub for more projects!)* 
+
+
 ---
 
 ### 📈 Estatísticas GitHub
+
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinicius030303&show_icons=true&theme=tokyonight" />
@@ -68,16 +82,13 @@
 
 ---
 
-### 📫 Contato
+###  Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-front)  
 📧 vinicius__santos@live.com  
-📱 (44) 9 9741-7617
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinicius030303&label=Profile+Views&color=blueviolet&style=flat" alt="view count"/>
 </p>
 
-<p align="center"><i>Tenho disciplina, autonomia, foco em solução e total interesse em crescer com projetos reais.</i></p>
+<p align="center"><i>“Clean code, scalable solutions, and continuous learning.”</i></p>
